@@ -1,3 +1,0 @@
-Quarta alteração
-Segunda alteração no sistema de login.
-Terceira alteração no sistema de login (realizados testes na branch testes-login)
